@@ -10,7 +10,6 @@ class RichestPeople
     $this->db = new Database();
   }
 
-  // Get all richest people
   // Sort by networth from highest to lowest
   public function getRichestPeople()
   {
