@@ -18,7 +18,7 @@ class HomePages extends Controller
     foreach ($richestPeople as $value) {
       $rows .= "<tr>
                   <td>$value->Name</td>
-                  <td>$value->Networth</td>
+                  <td>$value->Nettoworth</td>
                   <td>$value->MyAge</td>
                   <td>$value->Company</td>
                   <td><a href='" . URLROOT . "/richest/delete/$value->Id'>delete</a></td>

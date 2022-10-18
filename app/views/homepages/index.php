@@ -5,7 +5,7 @@
   <thead>
     <tr>
       <th>Name</th>
-      <th>NetWorth</th>
+      <th>Nettoworth</th>
       <th>MyAge</th>
       <th>Company</th>
     </tr>
