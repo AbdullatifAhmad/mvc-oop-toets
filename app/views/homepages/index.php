@@ -6,7 +6,7 @@
     <tr>
       <th>Name</th>
       <th>Nettoworth</th>
-      <th>MyAge</th>
+      <th>Age</th>
       <th>Company</th>
     </tr>
   </thead>

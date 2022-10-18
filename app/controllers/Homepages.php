@@ -19,7 +19,7 @@ class HomePages extends Controller
       $rows .= "<tr>
                   <td>$value->Name</td>
                   <td>$value->Nettoworth</td>
-                  <td>$value->MyAge</td>
+                  <td>$value->Age</td>
                   <td>$value->Company</td>
                   <td><a href='" . URLROOT . "/richest/delete/$value->Id'>delete</a></td>
                 </tr>";
